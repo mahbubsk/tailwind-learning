@@ -1,4 +1,6 @@
+import React from 'react';
 import AppMain from './components/AppMain';
+
 function App() {
 	return (
 		<div className="App">
